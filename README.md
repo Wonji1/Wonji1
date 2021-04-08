@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Ubuntu-E95320?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
