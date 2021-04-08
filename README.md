@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiHoon Won&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiHoonWon&fontSize=70&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -23,7 +23,6 @@
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
   <a href="https://wonji.tk/wonji"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://wonji.tk/wonji"/></a>&nbsp
-
   <a href="mailto:jih1092574@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jih1092574@gmail.com"/></a>
 </p>
 <br>
