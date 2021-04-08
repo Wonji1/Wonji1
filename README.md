@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache\rTomcat&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Ubuntu-E95320?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
   
 </p>
