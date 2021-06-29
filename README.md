@@ -25,7 +25,7 @@
 <br><br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
-  <a href="https://wonji.tk/wonji"><img src="https://img.shields.io/badge/Portfolio-11B48A?style=flat-square&logo=Storybook&logoColor=white&link=https://wonji.tk/wonji"/></a>&nbsp
+  <a href="https://wonji.pw/wonji"><img src="https://img.shields.io/badge/Portfolio-11B48A?style=flat-square&logo=Storybook&logoColor=white&link=https://wonji.tk/wonji"/></a>&nbsp
   <a href="mailto:jih1092574@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jih1092574@gmail.com"/></a>
 </p>
 <br>
